@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TicTacToeBoard", "TicTacToeBoard\", "{66BF7506-1835-4CD7-A563-05288E304C6D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63622"
+		Debug.AspNetCompiler.PhysicalPath = "TicTacToeBoard\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63622\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63622"
+		Release.AspNetCompiler.PhysicalPath = "TicTacToeBoard\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63622\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63622"
+		SlnRelativePath = "TicTacToeBoard\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BF7506-1835-4CD7-A563-05288E304C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF7506-1835-4CD7-A563-05288E304C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B241A71D-2E3E-4A17-9769-98A12CDBD646}
+	EndGlobalSection
+EndGlobal
