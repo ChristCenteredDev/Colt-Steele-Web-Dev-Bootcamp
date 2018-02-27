@@ -1,2 +1,42 @@
-﻿body {
+﻿/* Global */
+
+div {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+/* Tic Tac Toe Board */
+
+table {
+    margin: auto;
+}
+
+table tr td {
+    padding: 50px;
+}
+
+.ver-middle {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.hor-middle {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+/* DIV TABLE - Not Needed Now but worked */
+
+.div-container {
+    width: 310px;
+}
+
+.size {
+    height: 100px;
+    width: 100px;
+    float: left;
 }

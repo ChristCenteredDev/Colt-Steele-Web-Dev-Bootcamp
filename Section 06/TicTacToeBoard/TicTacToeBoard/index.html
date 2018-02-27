@@ -2,9 +2,53 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Tic Tac Toe Exercise</title>
+    <link href="\StyleSheet.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
+    <div>
+        <h1>Tic Tac Toe</h1>
 
+        <!-- Box model isn't working for Table
+             Bug Fixed: Stylesheet was incorrectly linked -->
+        <table>
+            <tr>
+                <td></td>
+                <td class="ver-middle"></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td class="hor-middle"></td>
+                <td class="ver-middle hor-middle"></td>
+                <td class="hor-middle"></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td class="ver-middle"></td>
+                <td></td>
+            </tr>
+        </table>
+
+        <!-- DIV Table -->
+        <!--  I didn't link the stylesheet properly so CSS wasn't applying....
+
+        <div class="div-container">
+            <div class="size"></div>
+            <div class="size ver-middle"></div>
+            <div class="size"></div>
+
+            <div class="size hor-middle"></div>
+            <div class="size ver-middle hor-middle"></div>
+            <div class="size hor-middle"></div>
+
+            <div class="size"></div>
+            <div class="size ver-middle"></div>
+            <div class="size"></div>
+        </div>
+        -->
+
+    </div>
 </body>
 </html>
