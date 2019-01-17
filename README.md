@@ -4,12 +4,13 @@
 ### Colt Steele's - The Web Developer Bootcamp <br>
 Course: (https://www.udemy.com/the-web-developer-bootcamp/)
 
-*Course Description: <strong>43 hour's</strong> of "the only course you need to learn web development - HTML, CSS, JS, Node, and More!"*
+*Course Description: <strong>47 hour's</strong> of "the only course you need to learn web development - HTML, CSS, JS, Node, and More!"*
 
 ### Technologies Covered:
 - Introduction HTML, CSS, JavaScript, jQuery
 - Intermediate HTML, CSS, JavaScript, JQuery
-- Bootstrap
+- Bootstrap 3
+- Bootstrap 4
 - The Command Line
 - BackEnd Basics
 - Node
